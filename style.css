@@ -210,7 +210,7 @@ body {
 
 .music-list {
     position: absolute;
-    background: var(--white);
+    background: #131518;
     width: 100%;
     left: 0;
     bottom: -55%;
